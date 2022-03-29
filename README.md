@@ -33,4 +33,9 @@
 
 ![image](https://user-images.githubusercontent.com/76476273/124918574-d1462380-e012-11eb-938e-08ab16f42a61.png)
 
+# Team Members
+
+ * [@Vikas](https://github.com/Vikas2201)
+ * [@Chirag Lakra](https://github.com/chiraglakra)
+
 
